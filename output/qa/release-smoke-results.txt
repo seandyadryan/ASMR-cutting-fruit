@@ -1,0 +1,21 @@
+Success
+Success
+Performing Streamed Install
+
+Success
+Starting: Intent { cmp=com.deploydulupulangnanti.asmrcuttingfruit/.MainActivity }
+
+Status: ok
+
+LaunchState: COLD
+
+Activity: com.deploydulupulangnanti.asmrcuttingfruit/.MainActivity
+
+TotalTime: 4577
+
+WaitTime: 4702
+
+Complete
+Release process running: 2999
+
+PASS: signed, minified release APK installed and launched.

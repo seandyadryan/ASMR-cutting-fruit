@@ -1,0 +1,9 @@
+com.deploydulupulangnanti.asmrcuttingfruit.StoreCaptureTest:.
+
+
+
+Time: 9.747
+
+
+
+OK (1 test)

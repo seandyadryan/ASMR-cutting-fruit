@@ -1,0 +1,126 @@
+{
+  "short_description_characters": 79,
+  "full_description_characters": 1705,
+  "images": [
+    {
+      "file": "store/feature/feature-graphic-1024x500.png",
+      "width": 1024,
+      "height": 500,
+      "bytes": 472733
+    },
+    {
+      "file": "store/icon/app-icon-512.png",
+      "width": 512,
+      "height": 512,
+      "bytes": 366362
+    },
+    {
+      "file": "store/screenshots/desktop/01-studio.png",
+      "width": 1920,
+      "height": 1080,
+      "bytes": 155958
+    },
+    {
+      "file": "store/screenshots/desktop/02-cutting.png",
+      "width": 1920,
+      "height": 1080,
+      "bytes": 310780
+    },
+    {
+      "file": "store/screenshots/desktop/03-pantry.png",
+      "width": 1920,
+      "height": 1080,
+      "bytes": 140550
+    },
+    {
+      "file": "store/screenshots/desktop/04-focus.png",
+      "width": 1920,
+      "height": 1080,
+      "bytes": 311493
+    },
+    {
+      "file": "store/screenshots/phone/01-studio.png",
+      "width": 1080,
+      "height": 1920,
+      "bytes": 457041
+    },
+    {
+      "file": "store/screenshots/phone/02-cutting.png",
+      "width": 1080,
+      "height": 1920,
+      "bytes": 432044
+    },
+    {
+      "file": "store/screenshots/phone/03-pantry.png",
+      "width": 1080,
+      "height": 1920,
+      "bytes": 409605
+    },
+    {
+      "file": "store/screenshots/phone/04-focus.png",
+      "width": 1080,
+      "height": 1920,
+      "bytes": 424839
+    },
+    {
+      "file": "store/screenshots/phone/05-journal.png",
+      "width": 1080,
+      "height": 1920,
+      "bytes": 324988
+    },
+    {
+      "file": "store/screenshots/phone/06-daily.png",
+      "width": 1080,
+      "height": 1920,
+      "bytes": 399585
+    },
+    {
+      "file": "store/screenshots/tablet-10/01-studio.png",
+      "width": 1920,
+      "height": 1080,
+      "bytes": 224788
+    },
+    {
+      "file": "store/screenshots/tablet-10/02-cutting.png",
+      "width": 1920,
+      "height": 1080,
+      "bytes": 329114
+    },
+    {
+      "file": "store/screenshots/tablet-10/03-pantry.png",
+      "width": 1920,
+      "height": 1080,
+      "bytes": 155141
+    },
+    {
+      "file": "store/screenshots/tablet-10/04-focus.png",
+      "width": 1920,
+      "height": 1080,
+      "bytes": 340904
+    },
+    {
+      "file": "store/screenshots/tablet-7/01-studio.png",
+      "width": 1920,
+      "height": 1080,
+      "bytes": 310813
+    },
+    {
+      "file": "store/screenshots/tablet-7/02-cutting.png",
+      "width": 1920,
+      "height": 1080,
+      "bytes": 320675
+    },
+    {
+      "file": "store/screenshots/tablet-7/03-pantry.png",
+      "width": 1920,
+      "height": 1080,
+      "bytes": 159573
+    },
+    {
+      "file": "store/screenshots/tablet-7/04-focus.png",
+      "width": 1920,
+      "height": 1080,
+      "bytes": 332963
+    }
+  ]
+}
